@@ -1,1 +1,0 @@
-"""AI Skills test package."""
